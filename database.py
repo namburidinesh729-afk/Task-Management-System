@@ -1,7 +1,8 @@
-
 import sqlite3
-import pandas as pd
+import os
 from config import DATABASE_NAME
+
+os.makedirs("database", exist_ok=True)
 
 def connect():
     return sqlite3.connect(DATABASE_NAME)
