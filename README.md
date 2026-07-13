@@ -54,7 +54,7 @@ Task-Management-System/
 │   └── style.css
 │
 ├── database/
-│   └── tasks.db
+│   └── tasks.db (created automatically)
 │
 ├── pages/
 │   ├── Add_Task.py
@@ -71,37 +71,48 @@ Task-Management-System/
 ## 📸 Screenshots
 ## 🏠 Home
 
-![Home](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/home.png" width="700">
+</p>
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<p align="center">
+  <img src="screenshots/dashboard.png" width="700">
+</p>
 
 ---
 
 ## ➕ Add Task
 
-![Add Task](screenshots/add_task.png)
+<p align="center">
+  <img src="screenshots/add_task.png" width="700">
+</p>
 
 ---
 
 ## 📋 View Tasks
 
-![View Tasks](screenshots/view_tasks.png)
+<p align="center">
+  <img src="screenshots/view_tasks.png" width="700">
+</p>
 
 ---
 
 ## ✏️ Update Task
 
-![Update Task](screenshots/update_task.png)
+<p align="center">
+  <img src="screenshots/update_task.png" width="700">
+</p>
 
 ---
 
 ## 🗑️ Delete Task
-
-![Delete Task](screenshots/delete_task.png)
+<p align="center">
+  <img src="screenshots/delete_task.png" width="700">
+</p>
 
 
 
@@ -112,7 +123,7 @@ Task-Management-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Task-Management-System.git
+git clone https://github.com/namburidinesh729-afk/Task-Management-System.git
 ```
 
 Move into the project directory
